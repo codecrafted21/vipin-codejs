@@ -1,1 +1,1 @@
-console.log("hi this is vipin sharma")
+console.log("today i am learn about java script whisch is scripted laguage ")
